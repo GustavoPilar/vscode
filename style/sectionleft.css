@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+main section#nav_left {
+    background-color: rgb(48, 48, 48);
+    width: 30px;
+    height: 90vh;
+    padding: 10px;
+    position: fixed;
+    top: 40px;
+}
+
+main section#nav_left ul#end {
+    margin: 440px 0 0 0 ;
+}
+
+main section#nav_left ul li{
+    list-style: none;
+}
+
+main section#nav_left ul li:hover {
+    color: white;
+}
