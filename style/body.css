@@ -8,6 +8,7 @@
 }
 
 body {
+    width: 100%;
     color: rgb(161, 161, 161);
     background-color: #1e1e1e;
 }

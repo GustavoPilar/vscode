@@ -19,4 +19,5 @@ main section#nav_left ul li{
 
 main section#nav_left ul li:hover {
     color: white;
+    cursor: pointer;
 }

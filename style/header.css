@@ -44,6 +44,7 @@ header div#search {
 
 header div#search:hover {
     background-color: rgb(100, 100, 100);
+    cursor: pointer;
 }
 
 header div#tools ul li {
@@ -52,4 +53,5 @@ header div#tools ul li {
 
 header div#tools ul li span:hover {
     background-color: rgba(99, 99, 99, 0.566);
+    cursor: pointer;
 }
